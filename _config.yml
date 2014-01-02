@@ -1,8 +1,10 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://www.lalunerouge.net
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+sitename: La lune rouge
 
 # Theme customization - please change from the defaults!
 theme:
@@ -11,21 +13,21 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
+    github: aquila
     #bitbucket: philipj
-    hacker_news: swanson
+    #hacker_news: swanson
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: _swanson
+    twitter: braempje
     #facebook: zuck
     #tumblr: animalygifs
     #linkedin: philipjagielski
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
-  tagline: "weak opinions, strongly held"
+  name: Bart Braem
+  email: bart(dot)braem(at)gmail(dot)com
+  tagline: "Portfolio"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
